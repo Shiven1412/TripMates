@@ -5,6 +5,6 @@ Once registered, users can create or join travel groups that match their criteri
 
 TripMates emphasizes safety and authenticity, requiring users to verify their identity through Aadhar details and a selfie that matches their Aadhar photo. This ensures that the community is trustworthy and reliable. A consent form is also signed before each trip to prioritize safety and mutual agreement among group members.
 
-The website features a sleek, black-and-white design, providing a visually appealing and modern user experience. The responsive design ensures seamless access across all devices. The login page is designed to captivate users with an animation of shooting stars, setting a celestial tone for their journey. Additionally, the site includes an advertising footer, providing space for ads to generate revenue for the platform.
+The website features a sleek, black-and-white design, providing a visually appealing and modern user experience. The responsive design ensures seamless access across all devices. The login page is designed to captivate users with an animation of shooting stars, setting a celestial tone for their journey. 
 
 TripMates is the perfect platform for those exploring the world with people who share their interests and lifestyles. Whether you’re into road trips, camping, or sophisticated sightseeing, TripMates makes it easy to find your next travel companions and create unforgettable experiences.
